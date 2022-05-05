@@ -5,3 +5,5 @@ To play in editor, run the "SnakeScene" scene. The snake is stationary to start.
 
 - C++ files are in the SnakeVSProj folder. 
 - SnakeAPI (C++) and SnakeGlue (C#) are used to communicate between the two languages.
+
+Build provided is most recent Windows build
